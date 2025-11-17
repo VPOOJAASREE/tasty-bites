@@ -1,0 +1,121 @@
+[
+  {
+    "id": 1,
+    "name": "Masala Omelette",
+    "category": "Breakfast",
+    "serves": 1,
+    "calories_per_serving": 200,
+    "ingredients": [
+      {
+        "name": "egg",
+        "qty": "2"
+      },
+      {
+        "name": "onion",
+        "qty": "0.25 cup"
+      },
+      {
+        "name": "tomato",
+        "qty": "0.25 cup"
+      },
+      {
+        "name": "chilli",
+        "qty": "1"
+      }
+    ],
+    "alt_suggestions": [
+      "Scrambled Eggs",
+      "Paneer Bhurji"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Vegetable Upma",
+    "category": "Breakfast",
+    "serves": 2,
+    "calories_per_serving": 280,
+    "ingredients": [
+      {
+        "name": "rava",
+        "qty": "1 cup"
+      },
+      {
+        "name": "carrot",
+        "qty": "0.5 cup"
+      },
+      {
+        "name": "peas",
+        "qty": "0.25 cup"
+      }
+    ],
+    "alt_suggestions": [
+      "Poha",
+      "Idli"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Lemon Rice",
+    "category": "Lunch",
+    "serves": 2,
+    "calories_per_serving": 350,
+    "ingredients": [
+      {
+        "name": "rice",
+        "qty": "2 cups cooked"
+      },
+      {
+        "name": "lemon",
+        "qty": "1"
+      },
+      {
+        "name": "peanuts",
+        "qty": "2 tbsp"
+      }
+    ],
+    "alt_suggestions": [
+      "Curd Rice",
+      "Tamarind Rice"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Chapati + Vegetable Curry",
+    "category": "Lunch",
+    "serves": 1,
+    "calories_per_serving": 420,
+    "ingredients": [
+      {
+        "name": "wheat flour",
+        "qty": "1 cup"
+      },
+      {
+        "name": "mixed vegetables",
+        "qty": "1 cup"
+      }
+    ],
+    "alt_suggestions": [
+      "Rice + Curry"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Gulab Jamun",
+    "category": "Desserts",
+    "serves": 1,
+    "calories_per_serving": 180,
+    "ingredients": [
+      {
+        "name": "khoya",
+        "qty": "0.25 cup"
+      },
+      {
+        "name": "sugar syrup",
+        "qty": "2 tbsp"
+      }
+    ],
+    "alt_suggestions": [
+      "Rasgulla"
+    ]
+  }
+]
